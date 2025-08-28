@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Full stack and GenAI**
 
-- 👨‍💻 All of my projects are available at [https://suryanshnaithani.github.io/Portfolio/](https://suryanshnaithani.github.io/Portfolio/)
-
 - 📫 How to reach me **suryanshnaithani@outlook.com**
 
 
