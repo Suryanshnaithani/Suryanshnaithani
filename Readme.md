@@ -9,10 +9,13 @@
 
 - 📫 How to reach me **suryanshnaithani@outlook.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+<p>
+  <a href="https://vaunt.dev">
+    <img
+      src="https://api.vaunt.dev/v1/github/entities/suryanshnaithani/contributions?format=svg&private=true"
+      width="350"
+      title="Includes public and private contributions"
+    />
+  </a>
 </p>
-
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Suryanshnaithani)](https://git.io/streak-stats)
