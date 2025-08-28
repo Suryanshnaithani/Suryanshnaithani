@@ -19,12 +19,6 @@
   📫 How to reach me: <a href="mailto: suryansh.naithani@gmail.com">suryansh.naithani@gmail.com</a>
 </p>
 
-<hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
-
-<hr>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
