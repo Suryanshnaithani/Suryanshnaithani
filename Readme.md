@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full stack and GenAI**
 
-- 📫 How to reach me **suryanshnaithani@outlook.com**
+- 📫 How to reach me **suryansh.naithani@gmail.com**
 
 
 <p>
