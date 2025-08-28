@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full stack and GenAI**
 
-- 📫 How to reach me **suryansh.naithani@gmail.com**
+- 📫 How to reach me : **suryansh.naithani@gmail.com**
 
 
 <p>
@@ -14,6 +14,17 @@
       src="https://api.vaunt.dev/v1/github/entities/suryanshnaithani/contributions?format=svg&private=true"
       width="350"
       title="Includes public and private contributions"
+    />
+  </a>
+</p>
+
+<p>
+  <a href="https://community.vaunt.dev/board/suryanshnaithani/achievements">
+    <img
+      decoding="async"
+      loading="lazy"
+      src="https://api.vaunt.dev/v1/github/entities/jeff1010322/achievements?format=svg&limit=8&raw=true"
+      width="350"
     />
   </a>
 </p>
