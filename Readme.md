@@ -21,9 +21,6 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <div align="center">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img width=390 src="https://streak-stats.demolab.com/?user=suryanshnaithani&theme=react&border=61dafb&hide_border=true" alt="suryanshnaithani"/>
-  </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width=390 src="https://github-readme-stats.vercel.app/api?username=suryanshnaithani&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
@@ -41,4 +38,3 @@
 
 <hr>
 
-![Metrics](https://metrics.lecoq.io/suryanshnaithani?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
